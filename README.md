@@ -1,3 +1,19 @@
+# NFT Marketplace Screenshots
+
+## Login Page
+![FireShot Capture 032 -  - localhost](https://github.com/SubhanuddinKhan/nft-marketplace/assets/45516016/9d1ffc78-91d7-4390-a914-35372a4f83ab)
+
+## Login With Metamask Wallet
+![login with metamask](https://github.com/SubhanuddinKhan/nft-marketplace/assets/45516016/18e0d030-04ec-4123-aa0d-aab07d83bad4)
+
+## NFT Grid View Panel
+![site](https://github.com/SubhanuddinKhan/nft-marketplace/assets/45516016/8ea1b5c5-20b7-4c26-a058-7096ae6e5044)
+
+## Mobile View 
+![mobile](https://github.com/SubhanuddinKhan/nft-marketplace/assets/45516016/8f108c47-1ec4-4184-b922-71f0975b93c3)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
